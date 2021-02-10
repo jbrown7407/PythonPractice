@@ -12,5 +12,18 @@ fruits = ["apple", "banana", "pear"]
 for x in fruits:
     print(x)
 
- def my_function():
-     print("Hello from function 1")   
+#function
+def my_function():
+    print("Hello from function 1")   
+#call function
+my_function()
+
+#boolean
+print(10 > 9)
+# will print TRUE
+
+#array notation looks very different from JS
+cars = ["Ford", "Volvo", "BMW"]
+car1 = "Ford"
+car2 = "Volvo"
+car3 = "BMW"
