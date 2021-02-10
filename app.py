@@ -27,3 +27,15 @@ cars = ["Ford", "Volvo", "BMW"]
 car1 = "Ford"
 car2 = "Volvo"
 car3 = "BMW"
+
+#create a class
+class NewPerson:
+    x=5
+
+ #similar use of local scope to JS
+
+ #module imports
+ import mymodule
+
+ mymodule.greeting("hello")
+    
